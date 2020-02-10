@@ -1,0 +1,17 @@
+My associate id:
+844535
+Other team members:
+
+844588, 844539, 844514, 844535, 844536
+
+Team lead:
+123460
+
+My Role in team:
+
+1. To develop contact us page and validations
+
+My development files:
+
+ contactuspage.html
+
